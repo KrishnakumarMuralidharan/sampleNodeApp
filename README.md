@@ -3,8 +3,8 @@ Sample application for beginners to understand nodejs with mongodb
 
 <b>Prerequisite:</b>    
 Kindly install these two softwares in your system  
-1. nodejs  
-2. mongodb  
+1. [Nodejs] (https://nodejs.org/en/download/)    
+2. [Mongodb] (https://www.mongodb.com/download-center#community)    
 
 <b>Steps to run the app:</b>    
 1. Clone the project  
